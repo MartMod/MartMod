@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Federico 👋
 
-<!--
-**MartMod/MartMod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD student in Software Engineering specializing in XR and Generative AI for Cultural Heritage.  
+I develop immersive applications using Unity and AR technologies, with a strong background in audio engineering and spatial sound.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const federico = {
+  role: "XR / AI Engineer | PhD Student",
+  workingOn: [
+    "XR applications with Unity, ARCore, ARKit and Vuforia",
+    "Generative AI and gamification for Cultural Heritage",
+    "Spatial audio and immersive sound in interactive systems"
+  ],
+  technologies: {
+    xr: ["Unity3D", "ARCore", "ARKit", "Vuforia", "OpenXR"],
+    programming: ["C#", "Dart", "Python"],
+    mobile: ["Flutter", "React Native"],
+    audio: ["Max/MSP", "Pure Data"],
+    daw: ["Pro Tools", "Ableton Live", "Reaper", "Cubase", "Logic Pro"],
+    tools: ["Git", "REST APIs"]
+  }
+};
